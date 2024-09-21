@@ -4,7 +4,7 @@ build:
 loans:
   message: "Welcome to EazyBank loans related prod APIs "
   contactDetails:
-    name: "Reine Aishwarya - Product Owner"
+    name: "Test Loans data - Product Owner"
     email: "aishwarya@webderslerim.com"
   onCallSupport:
     - (453) 392-4829
