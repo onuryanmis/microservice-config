@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to EazyBank accounts related prod APIs "
   contactDetails:
     name: "Test Account data- Software Developer"
-    email: "{cipher}031dff58c91138c1ca3f56603094340829f8becdd223c702947b66df62aefbff9288765d27804a25fc31ebfac5fcf665"
+    email: "{cipher}13cc68ee2bf1a15d90c5bc22f8af893a6237ac4db18eacbf62ccf5679067bfb48d14b0dee4e6ee59e35fd58eb75319ad"
   onCallSupport:
     - (453) 392-4829
     - (236) 203-0384
