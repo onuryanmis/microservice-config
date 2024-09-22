@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to EazyBank accounts related prod APIs "
   contactDetails:
-    name: "Test Account data- Product Owner"
+    name: "Test Account data- Software Developer"
     email: "onuryanmis@webderslerim.com"
   onCallSupport:
     - (453) 392-4829
